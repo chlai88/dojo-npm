@@ -1,0 +1,22 @@
+{ "name": "dojo-npm", 
+"description": "Dojo on NPM.", 
+"maintainers":
+  [ { "name": "Chern Lai", 
+      "web": "https://github.com/chlai88"
+    }
+  ],
+"version": "1.7.2", 
+"repository" :
+  { "type" : "git", 
+    "url" : "http://github.com/caolan/dojo-npm.git"
+  }, 
+"bugs" : { "url" : "http://github.com/chlai88/dojo-npm/issues" }, 
+"licenses" :
+  [ { "type" : "MIT", 
+      "url" : "http://github.com/chlai88/dojo-npm/raw/master/LICENSE"
+    }
+  ], 
+  "directories" : { "lib": "./lib", "doc" : "./doc", "man" : "./man1" }, 
+  "dependencies" : {
+  }
+}
